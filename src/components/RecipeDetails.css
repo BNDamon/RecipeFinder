@@ -1,0 +1,29 @@
+.recipe-detail-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .recipe-detail-container img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .ingredients, .instructions {
+    margin: 20px 0;
+  }
+  
+  .ingredients ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .ingredients li {
+    margin: 5px 0;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
