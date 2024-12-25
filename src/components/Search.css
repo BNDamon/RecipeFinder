@@ -65,3 +65,10 @@
   font-size: 1rem;
   margin-top: 10px;
 }
+
+.loading-trigger {
+  height: 50px;
+  margin-top: 20px;
+  text-align: center;
+}
+
